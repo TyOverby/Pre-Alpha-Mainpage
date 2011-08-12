@@ -4,7 +4,7 @@
 */
 
 body{
-	background-image:url('../img/pat.gif');
+	background-color:#f5f5f5;
 	background-repeat:repeat;
 }
 
@@ -12,14 +12,13 @@ header{
 	font-size:90px;
 	font-family: 'Rationale', sans-serif;
 
-	color:#e2e2e2;
-	text-shadow: -1px 0px 2px #72A6FC;
+	color:#f5f5f5;
+	text-shadow: -1px 0 #3079ED, 0 1px #3079ED,
+      1px 0 #3079ED, 0 -1px #3079ED
 }
 
 .coolbox{
-	border-radius: 2px;
 	border-style: solid;
-	border-width: 1px;
 	border-collapse: separate;
 }
 
@@ -45,6 +44,21 @@ header{
 	font-size:1.25em;
 	font-family:'Multi',sans-serif;
 	color:white;
+	border-top-width:1px;
+	border-bottom-width:1px;
+}
+
+#nav-list>li:first-child
+{
+	border-left-width:1px;
+	border-bottom-left-radius:2px;
+	border-top-left-radius:2px;
+}
+#nav-list>li:last-child
+{
+	border-right-width:1px;
+	border-bottom-right-radius:2px;
+	border-top-right-radius:2px;
 }
 
 .blue-panel{
