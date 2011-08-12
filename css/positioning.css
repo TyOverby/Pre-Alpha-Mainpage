@@ -2,3 +2,73 @@
     For the positioning of elements on the page.
     width, height, x, y, z, etc...
 */
+
+header{
+	padding-right:10px;
+
+	position:absolute;
+	top:210px;
+	left:-220px;
+
+	height:180px;
+	width:600px;
+	text-align: right;
+
+	-webkit-transform: rotate(-90deg);	
+	-moz-transform: rotate(-90deg);
+	-ms-transform: rotate(-90deg);
+	-o-transform: rotate(-90deg);
+	transform: rotate(-90deg);
+	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+}
+
+html,body,table{
+	width:100%;
+	height:100%;
+}
+
+td{
+vertical-align:top;
+padding:0px;
+margin:0px;
+}
+
+td#top-banner-td{
+	width:180px;
+	height:50px;
+}
+
+td#nav{
+	height:50px;
+	vertical-align:bottom;
+}
+div#top-banner{
+	height:inherit;
+}
+div#bottom-banner{
+	height:400px;
+
+	padding:0px;
+	margin:0px;
+}
+
+#nav-list>li{
+	float:left;
+	padding:9px;
+	margin:5px;
+
+}
+
+nav{
+	padding-left:20px;
+}
+
+#nav-list{
+	display:inline;
+	list-style-type:none;
+}
+
+#content{
+	padding:25px;
+	padding-right:25%
+}
