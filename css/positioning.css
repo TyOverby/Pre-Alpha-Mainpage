@@ -69,6 +69,11 @@ nav{
 }
 
 #content{
-	padding:25px;
+	padding-left:20px;
+	padding-top:15px;
 	padding-right:25%
+}
+
+.contentDiv{
+	display:none;
 }
