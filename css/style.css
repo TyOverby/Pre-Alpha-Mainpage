@@ -6,6 +6,7 @@
 body{
 	background-color:#f5f5f5;
 	background-repeat:repeat;
+	font-family:sans-serif;
 }
 
 header{
@@ -13,6 +14,10 @@ header{
 	font-family: 'Rationale', sans-serif;
 	
 	color:#f5f5f5;
+}
+
+h2{
+	font-size:1.5em;
 }
 
 a:link    {color:white;text-decoration: none;}
@@ -81,4 +86,18 @@ a:active  {color:white;text-decoration: none;}
 	background-color:#DEAC40;
 	border-color:#C49839;
 	text-shadow: -1px 0 #C49839, 0 1px #C49839,1px 0 #C49839, 0 -1px #C49839;
+}
+
+.pro{
+	border-radius:5px;
+}
+
+.contentDiv{
+	background-color:white;
+	border-radius:4px;
+}
+
+.pro>tbody>tr>td>img{
+	border-bottom-left-radius:4px;
+	border-top-left-radius:4px;
 }
