@@ -71,12 +71,14 @@ nav{
 #content{
 	padding-left:20px;
 	padding-top:15px;
-	padding-right:25%
+	padding-right:25%;
 }
 
 .contentDiv{
 	display:none;
 }
 
-.pro{
+.pro>tbody>tr>td:first-child{
+	width:220px;
+	height:;
 }

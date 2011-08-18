@@ -15,12 +15,12 @@ function jumpto(target){
 	var work=false;	
 
 	//hide previously visible div
-	$(".visible").hide("fast",function(){
-		$(target).show("fast");
+	$(".visible").hide("blind","fast",function(){
+		$(target).show("blind","fast");
 		work=true;	
 	});
 	if(!work){
-		$(target).show("slow");
+		//$(target).show("clip","slow");
 	}
 	
 	$(".visible").removeClass("visible");
