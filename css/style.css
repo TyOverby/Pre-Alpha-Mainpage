@@ -98,6 +98,11 @@ a:active  {color:white;text-decoration: none;}
 
 .btn{
 	border-style:solid;
+	background-image: -webkit-linear-gradient(top,rgba(0,0,0,0),rgba(0,0,0,0.05));
+	background-image: -moz-linear-gradient(top,rgba(0,0,0,0),rgba(0,0,0,0.05));
+}
+.btn:hover{
+	background-image: none;
 }
 
 .blue{
