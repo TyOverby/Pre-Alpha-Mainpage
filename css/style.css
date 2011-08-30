@@ -14,6 +14,18 @@ header{
 	font-family: 'Rationale', sans-serif;
 	
 	color:#f5f5f5;
+
+	-webkit-transition-property: text-shadow;
+	-webkit-transition-duration:500ms;
+	-webkit-transition-timing-function: ease-in-out;
+
+	-moz-transition-property: text-shadow;
+	-moz-transition-duration:500ms;
+	-moz-transition-timing-function: ease-in-out;
+
+	-o-transition-property: text-shadow;
+	-o-transition-duration:500ms;
+	-o-transition-timing-function: ease-in-out;
 }
 
 h2{
@@ -29,6 +41,18 @@ a:active  {color:white;text-decoration: none;}
 	border-right-style:solid;
 	border-right-width:1px;
 	border-collapse: separate;
+
+	-webkit-transition-property: background-color, border-color;
+	-webkit-transition-duration:500ms, 500ms;
+	-webkit-transition-timing-function: ease-in-out, ease-in-out;
+
+	-moz-transition-property: background-color, border-color;
+	-moz-transition-duration:500ms, 500ms;
+	-moz-transition-timing-function: ease-in-out, ease-in-out;
+
+	-o-transition-property: background-color, border-color;
+	-o-transition-duration:500ms, 500ms;
+	-o-transition-timing-function: ease-in-out, ease-in-out;
 }
 
 #bottom-banner{
@@ -37,6 +61,18 @@ a:active  {color:white;text-decoration: none;}
 	border-bottom-right-radius:4px;
 	border-right-width:1px;
 	border-bottom-width:1px;
+
+	-webkit-transition-property: background-color, border-color;
+	-webkit-transition-duration:500ms, 500ms;
+	-webkit-transition-timing-function: ease-in-out, ease-in-out;
+
+	-moz-transition-property: background-color, border-color;
+	-moz-transition-duration:500ms, 500ms;
+	-moz-transition-timing-function: ease-in-out, ease-in-out;
+
+	-o-transition-property: background-color, border-color;
+	-o-transition-duration:500ms, 500ms;
+	-o-transition-timing-function: ease-in-out, ease-in-out;
 }
 
 #nav-list>li{
