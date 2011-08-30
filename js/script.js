@@ -1,7 +1,10 @@
+var firstLoad=true;	
+
 $(window).load(function() {
 	if(window.location.hash){
 		jumpto(window.location.hash);	
 	}else{
+		window.location.hash="#about";
 		jumpto("#about");
 	}
 
@@ -12,16 +15,21 @@ $(window).load(function() {
 });
 
 function jumpto(target){
-	var work=false;	
-
 	//hide previously visible div
-	$(".visible").hide("blind","fast",function(){
-		$(target).show("blind","fast");
-		work=true;	
+	$(".visible").each(function(){
+		$(this).hide("blind","fast",function(){
+			$(target).show("blind","fast",function(){
+			});	
+			firstLoad=false;
+		})
 	});
-	if(!work){
-		//$(target).show("clip","slow");
-	}
+
+	setTimeout(function(){
+		if(firstLoad==true){
+			$(target).show("clip","slow");
+			console.log("showing slow");
+		}
+	},300);
 	
 	$(".visible").removeClass("visible");
 	$(target).addClass("visible");
