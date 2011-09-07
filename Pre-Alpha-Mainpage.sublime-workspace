@@ -1,0 +1,307 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/ty/workspace/serious_business/Pre-Alpha-Mainpage/js/style.js",
+			"settings":
+			{
+				"buffer_size": 463,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/ty/workspace/serious_business/Pre-Alpha-Mainpage/js/script.js",
+			"settings":
+			{
+				"buffer_size": 676,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/ty/workspace/serious_business/Pre-Alpha-Mainpage/index.html",
+			"settings":
+			{
+				"buffer_size": 3652,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/ty/workspace/serious_business/Pre-Alpha-Mainpage/css/style.css",
+			"settings":
+			{
+				"buffer_size": 3578,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0,
+		"selected_items":
+		[
+		],
+		"width": 0
+	},
+	"console":
+	{
+		"height": 0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ty/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/ty/.ssh/id_rsa.pub",
+		"/C/Users/ty/workspace/serious_business/Pre-Alpha-Mainpage/script.js",
+		"/C/Users/ty/workspace/serious_business/ExtempDB/CHANGELOG.md",
+		"/C/Users/ty/workspace/serious_business/ExtempDB/README.md",
+		"/C/Users/ty/workspace/serious_business/ExtempDB/TODO.md",
+		"/C/Users/ty/workspace/serious_business/Pre-Alpha-Mainpage/js/script.js",
+		"/C/Users/ty/workspace/serious_business/Pre-Alpha-Mainpage/js/style.js",
+		"/C/Users/ty/workspace/serious_business/Pre-Alpha-Mainpage/index.html",
+		"/C/Users/ty/workspace/serious_business/Pre-Alpha-Mainpage/css/positioning.css",
+		"/C/Users/ty/workspace/serious_business/Pre-Alpha-Mainpage/css/style.css"
+	],
+	"find":
+	{
+		"height": 32
+	},
+	"find_in_files":
+	{
+		"height": 0,
+		"include_history":
+		[
+		],
+		"location_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"linear",
+			"500",
+			"1s",
+			"testing ",
+			"testing"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ease-in-out",
+			"500ms",
+			"500"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/ty/workspace/serious_business/Pre-Alpha-Mainpage/js/style.js",
+					"settings":
+					{
+						"buffer_size": 463,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								463,
+								463
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/ty/workspace/serious_business/Pre-Alpha-Mainpage/js/script.js",
+					"settings":
+					{
+						"buffer_size": 676,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								476,
+								498
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "/C/Users/ty/workspace/serious_business/Pre-Alpha-Mainpage/index.html",
+					"settings":
+					{
+						"buffer_size": 3652,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1229,
+								1229
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/ty/workspace/serious_business/Pre-Alpha-Mainpage/css/style.css",
+					"settings":
+					{
+						"buffer_size": 3578,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1121,
+								1121
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0,
+						"translation.y": 480,
+						"zoom_level": 1
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0
+	},
+	"input":
+	{
+		"height": 0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0,
+			0.423448275862,
+			1
+		],
+		"rows":
+		[
+			0,
+			1
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 60
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0,
+		"selected_items":
+		[
+		],
+		"width": 0
+	},
+	"select_project":
+	{
+		"height": 0,
+		"selected_items":
+		[
+		],
+		"width": 0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150,
+	"status_bar_visible": true
+}
