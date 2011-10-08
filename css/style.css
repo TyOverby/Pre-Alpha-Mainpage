@@ -147,3 +147,14 @@ a:active  {color:black;text-decoration: none;}
 	border-bottom-left-radius:4px;
 	border-top-left-radius:4px;
 }
+
+#ie{
+	display:none;
+	background-color:rgb(100,0,0);
+	border-radius:5px;
+	color:white;
+}
+#ie a:link    {color:rgb(50,50,200);text-decoration: underline;}
+#ie a:link {color:rgb(50,50,200);text-decoration: underline;}
+#ie a:link   {color:rgb(50,50,200);text-decoration: none;}
+#ie a:link  {color:rgb(50,50,200);text-decoration: none;}
