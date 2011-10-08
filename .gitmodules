@@ -1,0 +1,3 @@
+[submodule "Labs"]
+	path = Labs
+	url = git@github.com:TyOverby/Labs.git

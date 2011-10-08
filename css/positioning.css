@@ -19,7 +19,7 @@ header{
 	-ms-transform: rotate(-90deg);
 	-o-transform: rotate(-90deg);
 	transform: rotate(-90deg);
-	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=4);
 }
 
 html,body,table{
@@ -81,4 +81,13 @@ nav{
 .pro>tbody>tr>td:first-child{
 	width:220px;
 	height:;
+}
+
+#ie{
+	margin-left:auto;
+	margin-right:auto;
+
+	width:50%;
+	position:relative;
+	top:50%;
 }

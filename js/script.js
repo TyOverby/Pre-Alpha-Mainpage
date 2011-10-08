@@ -1,6 +1,12 @@
 var firstLoad=true;	
 
 $(window).load(function() {
+	if(navigator.appName=="Microsoft Internet Explorer"){
+		console.error("IE DETECTED");
+		$("#container").hide();
+		$("#ie").show();
+	}
+
 	if(window.location.hash){
 		jumpto(window.location.hash);	
 	}else{

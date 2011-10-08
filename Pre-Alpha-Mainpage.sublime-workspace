@@ -8,7 +8,7 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/ty/workspace/serious_business/Pre-Alpha-Mainpage/js/style.js",
+			"file": "js/style.js",
 			"settings":
 			{
 				"buffer_size": 463,
@@ -16,26 +16,34 @@
 			}
 		},
 		{
-			"file": "/C/Users/ty/workspace/serious_business/Pre-Alpha-Mainpage/js/script.js",
+			"file": "js/script.js",
 			"settings":
 			{
-				"buffer_size": 676,
+				"buffer_size": 812,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/ty/workspace/serious_business/Pre-Alpha-Mainpage/index.html",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 3652,
+				"buffer_size": 4447,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/ty/workspace/serious_business/Pre-Alpha-Mainpage/css/style.css",
+			"file": "css/style.css",
 			"settings":
 			{
-				"buffer_size": 3578,
+				"buffer_size": 3911,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/positioning.css",
+			"settings":
+			{
+				"buffer_size": 1133,
 				"line_ending": "Windows"
 			}
 		}
@@ -43,15 +51,15 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 0,
+		"height": 0.0,
 		"selected_items":
 		[
 		],
-		"width": 0
+		"width": 0.0
 	},
 	"console":
 	{
-		"height": 0
+		"height": 0.0
 	},
 	"distraction_free":
 	{
@@ -78,11 +86,11 @@
 	],
 	"find":
 	{
-		"height": 32
+		"height": 32.0
 	},
 	"find_in_files":
 	{
-		"height": 0,
+		"height": 0.0,
 		"include_history":
 		[
 		],
@@ -102,7 +110,7 @@
 			"testing"
 		],
 		"highlight": true,
-		"in_selection": false,
+		"in_selection": true,
 		"preserve_case": false,
 		"regex": false,
 		"replace_history":
@@ -120,12 +128,12 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/ty/workspace/serious_business/Pre-Alpha-Mainpage/js/style.js",
+					"file": "js/style.js",
 					"settings":
 					{
 						"buffer_size": 463,
@@ -135,34 +143,34 @@
 						"selection":
 						[
 							[
-								463,
-								463
+								0,
+								0
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
-						"translation.x": 0,
-						"translation.y": 0,
-						"zoom_level": 1
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/C/Users/ty/workspace/serious_business/Pre-Alpha-Mainpage/js/script.js",
+					"file": "js/script.js",
 					"settings":
 					{
-						"buffer_size": 676,
+						"buffer_size": 812,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								476,
-								498
+								181,
+								181
 							]
 						],
 						"settings":
@@ -170,32 +178,32 @@
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
-						"translation.x": 0,
-						"translation.y": 0,
-						"zoom_level": 1
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
 					},
 					"type": "text"
 				}
 			]
 		},
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 2,
-					"file": "/C/Users/ty/workspace/serious_business/Pre-Alpha-Mainpage/index.html",
+					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 3652,
+						"buffer_size": 4447,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1229,
-								1229
+								4402,
+								4402
 							]
 						],
 						"settings":
@@ -203,26 +211,26 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
-						"translation.x": 0,
-						"translation.y": 0,
-						"zoom_level": 1
+						"translation.x": 0.0,
+						"translation.y": 1816.0,
+						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "/C/Users/ty/workspace/serious_business/Pre-Alpha-Mainpage/css/style.css",
+					"file": "css/style.css",
 					"settings":
 					{
-						"buffer_size": 3578,
+						"buffer_size": 3911,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1121,
-								1121
+								3598,
+								3598
 							]
 						],
 						"settings":
@@ -230,9 +238,36 @@
 							"syntax": "Packages/CSS/CSS.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
-						"translation.x": 0,
-						"translation.y": 480,
-						"zoom_level": 1
+						"translation.x": 0.0,
+						"translation.y": 1968.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "css/positioning.css",
+					"settings":
+					{
+						"buffer_size": 1133,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1130,
+								1130
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1008.0,
+						"zoom_level": 1.0
 					},
 					"type": "text"
 				}
@@ -241,11 +276,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 0
+		"height": 0.0
 	},
 	"input":
 	{
-		"height": 0
+		"height": 0.0
 	},
 	"layout":
 	{
@@ -266,42 +301,42 @@
 		],
 		"cols":
 		[
-			0,
+			0.0,
 			0.423448275862,
-			1
+			1.0
 		],
 		"rows":
 		[
-			0,
-			1
+			0.0,
+			1.0
 		]
 	},
 	"menu_visible": true,
 	"replace":
 	{
-		"height": 60
+		"height": 60.0
 	},
 	"save_all_on_build": true,
 	"select_file":
 	{
-		"height": 0,
+		"height": 0.0,
 		"selected_items":
 		[
 		],
-		"width": 0
+		"width": 0.0
 	},
 	"select_project":
 	{
-		"height": 0,
+		"height": 0.0,
 		"selected_items":
 		[
 		],
-		"width": 0
+		"width": 0.0
 	},
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150,
+	"side_bar_width": 150.0,
 	"status_bar_visible": true
 }
